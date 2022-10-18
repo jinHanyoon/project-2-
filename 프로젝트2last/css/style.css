@@ -117,12 +117,12 @@ float: left;}
     bottom: 20px; text-align: center;
 }
 .page2 .btn li{width:70px; text-align: center;
-    margin-right: 20px; background-color:#ccc;
+    margin-right: 20px; background-color:#6060606c;
     display: inline-block; height: 20px; border-radius: 5px;
     }
  
 .page2 .btn li:nth-child(5){margin-right:0;}    
-.page2 .btn li.on{background-color: rgb(77, 72, 72); width: 30px;
+.page2 .btn li.on{background-color: #569aff; width: 30px;
     transition: all 1s;}
 
 
@@ -134,7 +134,8 @@ float: left;}
 .page3 .after_text{width:2770px; position: absolute}
 .page3 .after_text li{width: 320px; float: left; 
     height: 400px; margin-left: 30px;}
-.page3 .after_text img{width: 320px; height: 400px; border-radius: 5px;}
+.page3 .after_text img{width: 320px; height: 400px; border-radius: 5px;
+    box-shadow: 5px 5px 5px rgb(158, 157, 157);}
 .page3 .after_text h4{font-size: 25px; font-family:sans-serif;
     color: rgb(43, 40, 40); margin-bottom: 10px; }
 .page3 .after_text figure{ margin:10px 0 0 10px; color: rgb(90, 86, 86);
